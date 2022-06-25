@@ -1,0 +1,29 @@
+// 1. Initialize npm and install dependencies
+express, dotenv, cors, mongodb, ejs, nodemon --sav dotenv
+
+// 2. Require dependencies in server.js
+
+// 3. Declare variables
+
+// 4. Connect to MongoDB - add connection string to .env file
+
+// 5. Add .env file to gitignore
+
+// 6.  connection string to .env file
+
+// 7. Create Port
+
+// Test Mongo and Port connection
+
+// 8. Set Middleware
+
+// 9. Create gitignore
+
+// 10. Create Public views folder - add main.js and style.css to Public and index.ejs to views
+
+// 11. From root, init local git repo and commit
+
+// 12. Create heroku repo
+
+// heroku login
+// heroku create simple-rap-api
